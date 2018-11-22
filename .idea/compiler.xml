@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="account" />
+        <module name="assemble" />
+        <module name="business" />
+        <module name="common" />
+        <module name="customer" />
+        <module name="demo" />
+        <module name="gateway" />
+        <module name="mq" />
+        <module name="rides" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account" target="1.8" />
+      <module name="assemble" target="1.8" />
+      <module name="business" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="customer" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="modules" target="1.8" />
+      <module name="mq" target="1.8" />
+      <module name="openapi" target="1.8" />
+      <module name="pccb" target="1.8" />
+      <module name="rides" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

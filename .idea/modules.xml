@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/account/account.iml" filepath="$PROJECT_DIR$/modules/account/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assemble/assemble.iml" filepath="$PROJECT_DIR$/assemble/assemble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/business/business.iml" filepath="$PROJECT_DIR$/modules/business/business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/customer/customer.iml" filepath="$PROJECT_DIR$/modules/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi/demo.iml" filepath="$PROJECT_DIR$/openapi/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/gateway/gateway.iml" filepath="$PROJECT_DIR$/modules/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq/mq.iml" filepath="$PROJECT_DIR$/mq/mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi/openapi.iml" filepath="$PROJECT_DIR$/openapi/openapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pccb.iml" filepath="$PROJECT_DIR$/pccb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rides/rides.iml" filepath="$PROJECT_DIR$/rides/rides.iml" />
+    </modules>
+  </component>
+</project>
