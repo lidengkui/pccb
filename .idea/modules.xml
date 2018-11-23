@@ -7,13 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/modules/business/business.iml" filepath="$PROJECT_DIR$/modules/business/business.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/customer/customer.iml" filepath="$PROJECT_DIR$/modules/customer/customer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openapi/demo.iml" filepath="$PROJECT_DIR$/openapi/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/gateway/gateway.iml" filepath="$PROJECT_DIR$/modules/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mq/mq.iml" filepath="$PROJECT_DIR$/mq/mq.iml" />
       <module fileurl="file://$PROJECT_DIR$/openapi/openapi.iml" filepath="$PROJECT_DIR$/openapi/openapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/pccb.iml" filepath="$PROJECT_DIR$/pccb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rides/rides.iml" filepath="$PROJECT_DIR$/rides/rides.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>

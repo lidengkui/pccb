@@ -4,12 +4,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/openapi/pom.xml" />
         <option value="$PROJECT_DIR$/assemble/pom.xml" />
         <option value="$PROJECT_DIR$/common/pom.xml" />
         <option value="$PROJECT_DIR$/modules/pom.xml" />
-        <option value="$PROJECT_DIR$/rides/pom.xml" />
-        <option value="$PROJECT_DIR$/mq/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
       </list>
     </option>
   </component>

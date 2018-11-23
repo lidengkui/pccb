@@ -20,9 +20,9 @@
     <modules>
         <module>common</module>
         <module>assemble</module>
-        <module>rides</module>
-        <module>mq</module>
         <module>openapi</module>
+        <module>modules</module>
+        <module>test</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

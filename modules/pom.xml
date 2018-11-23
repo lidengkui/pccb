@@ -36,16 +36,6 @@
             <artifactId>common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
-        <dependency>
-            <groupId>com.pccb</groupId>
-            <artifactId>rides</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.pccb</groupId>
-            <artifactId>mq</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
         <!--其他依赖-->
         <dependency>
             <groupId>org.springframework.boot</groupId>

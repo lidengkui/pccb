@@ -11,10 +11,9 @@
         <module name="business" />
         <module name="common" />
         <module name="customer" />
-        <module name="demo" />
         <module name="gateway" />
-        <module name="mq" />
-        <module name="rides" />
+        <module name="openapi" />
+        <module name="test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +29,7 @@
       <module name="openapi" target="1.8" />
       <module name="pccb" target="1.8" />
       <module name="rides" target="1.8" />
+      <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
