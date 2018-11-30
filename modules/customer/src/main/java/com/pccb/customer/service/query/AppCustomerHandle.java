@@ -1,6 +1,5 @@
 package com.pccb.customer.service.query;
 
-import com.pccb.customer.entity.AppCustomerEntity;
 import com.pccb.customer.service.AppCustomerService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -38,8 +37,8 @@ public class AppCustomerHandle implements Runnable {
 
     public void reCheckNew(AppCustomerTask task) {
         try {
-            AppCustomerEntity list = customerService.findByAppCode(task.getCode());
-            System.out.println("-----------------------消费结果：" + list);
+           // AppCustomerEntity list = customerService.findByAppCode(task.getCode());
+           // System.out.println("-----------------------消费结果：" + list);
             System.out.println("-----------------------注入的service:" + customerService);
         } catch (Exception e) {
             e.printStackTrace();

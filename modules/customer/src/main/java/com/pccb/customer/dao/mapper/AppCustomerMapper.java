@@ -2,10 +2,10 @@ package com.pccb.customer.dao.mapper;
 
 import com.pccb.customer.entity.AppCustomerEntity;
 import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Param;
+import org.springframework.data.repository.query.Param;
 
-@Mapper
-public interface AppCustomerMapper {
+//@Mapper
+public class AppCustomerMapper {
 
-    AppCustomerEntity findByAppCode(@Param("code") String code);
+    //AppCustomerEntity findByAppCode(@Param("code") String code);
 }

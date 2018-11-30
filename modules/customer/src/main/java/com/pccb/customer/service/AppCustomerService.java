@@ -6,7 +6,7 @@ import com.pccb.customer.entity.AppCustomerEntity;
 public interface AppCustomerService {
 
 
-    AppCustomerEntity findByAppCode(String code);
+    //AppCustomerEntity findByAppCode(String code);
 
     AppCustomerEntity findById(Long id);
 
